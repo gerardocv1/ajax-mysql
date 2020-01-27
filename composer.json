@@ -1,0 +1,13 @@
+{
+    "name": "taller/versio1",
+    "authors": [
+        {
+            "name": "Gerardo",
+            "email": "gcarvajal@muy.com.co"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^8"
+    }
+}
